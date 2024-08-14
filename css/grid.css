@@ -1,0 +1,25 @@
+/*
+Grid
+*/
+/*containers */
+.container {
+    display: grid;
+    grid-gap: 20px;
+    width: 100%;
+    max-width: 1680px;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+
+
+.normal-width {
+    max-width: 1200px;
+}
+
+.narrow-width {
+    max-width: 768px;
+}
+
+
+
+

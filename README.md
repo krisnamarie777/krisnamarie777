@@ -1,5 +1,5 @@
 Right now you just get a blurb I am still working on the website.  If you are curious
-about the code you can poke at files but, honestly they are nothing special, yet. 
+about the code you can poke at the files but, honestly they are nothing special, yet. 
 
 
 Hi, I am Krisna Marie from Bellingham, Washington.  I am quirky and wanted to make a website that celebrated my unique voice and journey as a creative and designer.  Every creative's journey is unique, and mine is no exception.   I am relatively new to this journey. This website is a celebration of my curated works and the a journey in  creating, and expressing myself.   

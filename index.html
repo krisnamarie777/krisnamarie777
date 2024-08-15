@@ -6,22 +6,30 @@
     <title>Krisna Marie&mdash;Artist, Designer, &amp; Developer</title>
 
     <!--fonts-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="prefetch" href="https://fonts.googleapis.com">
+    <link rel="prefetch" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    
+    <!--insert outside css here-->
+    <link rel="stylesheet" href="css/normalize.css"><!-- https://necolas.github.io/normalize.css/ -->
+
+    <!--insert inside css here-->
     <link rel="stylesheet" href="css/grid.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <nav id="primary-nav">
+    <nav id="primary-nav" class="branding">
         <h1 class="brand"><a href="index.html">Krisna Marie</a></h1>
-        <p class="subtitle">Artist, Designer &amp; Developer</p>
     </nav>
     <section id="about" class="container wide-width">
-        <figure class="col md-span1 bg-accent">
-            <img src="images/content/about/krisna-portrait.jpg" alt="Self Portrait, mixed media drawing">
-            <figcaption>Rather old self portrait&mdash;mixed media</figcaption>
-        </figure>
+        <div class="col md-span-1 bg-accent">
+            <figure class="col md-span1 ">
+                <img src="images/content/about/krisna-portrait.webp" alt="Self Portrait, mixed media drawing">
+                <figcaption>Rather old self portrait&mdash;mixed media</figcaption>
+            </figure>
+        </div>
         <div class="col xl-span3 md-span2">     
             <header class="site-header section-header">
                 <h1>Hi, I am Krisna Marie an Artist, Designer, & Developer from Bellingham, Washington.</h1>

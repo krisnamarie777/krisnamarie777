@@ -1,6 +1,97 @@
+:root {
+    --color-main: #333;
+    --color-main-contrast: #ece9e6;
+    --color-primary: #000;
+    --color-primary-contrast: #fff;
+    --color-accent: #592d45;
+    --color-accent-contrast: (var(--color-main-contrast))
+    --border-subtle-accent: 1px solid #a4a4a4;
+    --border-subtle-main: 1px solid #333;
+}
+/* General Styles */
+* {
+    box-sizing: border-box;
+}
+html {
+    color: var(--color-main);
+    /* background gradient from https://uigradients.com/#Clouds */
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-size: 100%;
+}
+
 body {
     font-family: Nunito, sans-serif;
     line-height: 1.35;
-    color: #333;
-    background: #f4f4f4;
+    font-weight: 500;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border: var(--border-subtle-accent);
+}
+
+/* Global Styles */
+
+p { margin-bottom: 0.65em}
+
+.lead {
+    font-size: 1.35rem;
+    line-height: 1.3;
+    font-style: italic;
+}
+
+figure {
+    padding: 0.5em;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+/* Background and Color Related Styles */
+
+.bg-accent {
+    color: var(--color-primary-contrast);
+    background: var(--color-accent);
+}
+
+.bg-accent a {
+    color: var(--color-main-contrast);
+}
+
+
+/* Navs */
+
+
+/*Primary Nav */
+
+.branding {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: var(--color-primary);
+    color: var(--color-primary-contrast);
+    font-family: 'Noto serif', serif;
+    padding: 12px;
+    z-index: 2;
+}
+
+.branding a {
+    color: var(--color-primary-contrast);
+    text-decoration: none;
+}
+
+
+/* Sections */
+
+section {
+    position: relative;
+    
+    padding:  5.25em 10px;
 }

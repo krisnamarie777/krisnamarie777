@@ -4,17 +4,67 @@ Grid
 /*containers */
 .container {
     display: grid;
-    grid-gap: 20px;
-    width: 100%;
-    max-width: 1680px;
-    margin: 20px auto;
+    grid-gap: 12px;
+    margin: 16px auto;
     box-sizing: border-box;
+}
+
+.wide-width {
+    max-width: 1680px;
+    background: var(--color-main);
+    color: var(--color-main-contrast);
+    padding: 12px;
+    grid-template-columns: 1;
+}
+
+
+@media (min-width: 768px) { /*add up to 5 for row*/
+    .container {
+        grid-template-columns: repeat(5, 1fr);
+        
+    }
+
+    .col { 
+        background: var(--color-accent); 
+    
+    }
+    .tab-span-1 {
+        grid-column: span 1;
+    }
+    .tab-span-2 {
+        grid-column: span 2;
+    }
+
+    .tab-span-3 {
+        grid-column: span 3;
+    }
+
+    .tab-span-4 {
+        grid-column: span 4;
+    }
+
+    .tab-span-5 {
+        grid-column: span 5;
+    }
+}
+
+
+@media (min-width: 960px) { /*add up to 6 for row */
+    .container {
+        grid
+    }
 }
 
 .normal-width {
     max-width: 1200px;
+    background: var(--color-main);
+    color: var(--color-main-contrast);
+    padding: 16px;
 }
 
 .narrow-width {
     max-width: 768px;
+    background: var(--color-main);
+    color: var(--color-main-contrast);
+    padding: 16px;
 }

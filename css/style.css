@@ -4,7 +4,7 @@
     --color-primary: #000;
     --color-primary-contrast: #fff;
     --color-accent: #592d45;
-    --color-accent-contrast: (var(--color-main-contrast))
+    --color-accent-contrast: (var(--color-main-contrast));
     --border-subtle-accent: 1px solid #a4a4a4;
     --border-subtle-main: 1px solid #333;
 }
@@ -36,6 +36,10 @@ img {
 }
 
 /* Global Styles */
+
+main {
+    padding-top: 5.5em;
+}
 
 p { margin-bottom: 0.65em}
 
@@ -92,6 +96,5 @@ figcaption {
 
 section {
     position: relative;
-    
     padding:  5.25em 10px;
 }

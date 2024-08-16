@@ -1,33 +1,35 @@
 /*
 Grid
 */
+
+.col, .containers {
+    box-sizing: border-box;
+}
 /*containers */
 .container {
     display: grid;
     grid-gap: 12px;
-    margin: 16px auto;
-    box-sizing: border-box;
+    margin: 12px auto;
+
 }
 
 .wide-width {
     max-width: 1680px;
-    background: var(--color-main);
-    color: var(--color-main-contrast);
     padding: 12px;
     grid-template-columns: 1;
 }
 
+.col { 
+    border: var(--border-subtle-main);
+}
 
 @media (min-width: 768px) { /*add up to 5 for row*/
     .container {
         grid-template-columns: repeat(5, 1fr);
-        
+        padding: 15px;
     }
 
-    .col { 
-        background: var(--color-accent); 
-    
-    }
+
     .tab-span-1 {
         grid-column: span 1;
     }
@@ -51,7 +53,7 @@ Grid
 
 @media (min-width: 960px) { /*add up to 6 for row */
     .container {
-        grid
+        
     }
 }
 

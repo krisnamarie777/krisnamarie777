@@ -1,3 +1,7 @@
+At present time this code is a mess I have branched it to another repo called krisnamarie-pre-production
+as this is intended to go to my live site in the near future.
+
+==============================================================================================
 Right now you just get a blurb I am still working on the website.  If you are curious
 about the code you can poke at the files but, honestly they are nothing special, yet. 
 

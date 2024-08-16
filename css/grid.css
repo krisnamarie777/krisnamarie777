@@ -2,7 +2,7 @@
 Grid
 */
 
-.col, .containers {
+.col, .container {
     box-sizing: border-box;
 }
 /*containers */
@@ -13,7 +13,7 @@ Grid
 
 }
 
-.wide-width {
+.wide-width { /*1 for row */
     max-width: 1680px;
     padding: 12px;
     grid-template-columns: 1;
@@ -23,38 +23,114 @@ Grid
     border: var(--border-subtle-main);
 }
 
-@media (min-width: 768px) { /*add up to 5 for row*/
-    .container {
-        grid-template-columns: repeat(5, 1fr);
+@media (min-width: 768px) { /* 6 for row*/
+    .wide-width {
+        grid-template-columns: repeat(6, 1fr);
         padding: 15px;
     }
 
-
-    .tab-span-1 {
-        grid-column: span 1;
+    .span-1 {
+        grid-column: span 3;
     }
-    .tab-span-2 {
-        grid-column: span 2;
-    }
-
-    .tab-span-3 {
+    .span-2 {
         grid-column: span 3;
     }
 
-    .tab-span-4 {
-        grid-column: span 4;
+    .span-3 {
+        grid-column: span 3;
     }
 
-    .tab-span-5 {
-        grid-column: span 5;
+    .span-4 {
+        grid-column: span 3;
     }
+
+    .span-5 {
+        grid-column: span 3;
+    }
+
+    .span-6 {
+        grid-column: span 3;
+    }
+
+    .span-7 {
+        grid-column: span 6;
+    }
+    .span-8 {
+        grid-column: span 6;
+    }
+
+    .span-9 {
+        grid-column: span 6;
+    }
+
+    .span-10 {
+        grid-column: span 6;
+    }
+
+    .span-11 {
+        grid-column: span 6;
+    }
+
+    .span-12 {
+        grid-column: span 6;
+    }
+
 }
 
 
-@media (min-width: 960px) { /*add up to 6 for row */
+@media (min-width: 1200px) { /*add up to 6 for row */
     .container {
-        
+        grid-template-columns: repeat(12, 1fr);
+        padding: 20px
     }
+    .span-1 {
+        grid-column: span 1;
+    }
+    .span-2 {
+        grid-column: span 2;
+    }
+
+    .span-3 {
+        grid-column: span 3;
+    }
+
+    .span-4 {
+        grid-column: span 4;
+    }
+
+    .span-5 {
+        grid-column: span 5;
+    }
+
+    .span-6 {
+        grid-column: span 6;
+    }
+
+    .span-7 {
+        grid-column: span 7;
+    }
+    .span-8 {
+        grid-column: span 8;
+    }
+
+    .span-9 {
+        grid-column: span 9;
+    }
+
+    .span-10 {
+        grid-column: span 10;
+    }
+
+    .span-11 {
+        grid-column: span 11;
+    }
+
+    .span-12 {
+        grid-column: span 12;
+    }
+
+
+
 }
 
 .normal-width {

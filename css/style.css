@@ -9,9 +9,6 @@
     --border-subtle-main: 1px solid #333;
 }
 /* General Styles */
-* {
-    box-sizing: border-box;
-}
 html {
     color: var(--color-main);
     /* background gradient from https://uigradients.com/#Clouds */
@@ -96,5 +93,6 @@ figcaption {
 
 section {
     position: relative;
+    max-width: 100%;
     padding:  5.25em 10px;
 }

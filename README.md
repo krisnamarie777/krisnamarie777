@@ -1,6 +1,6 @@
-==================
 Currently this project is only this README.md and a license.txt.  Working on other files as time permits.
-=================
+
+******************************
 
 Hi, Welcome to my github account.
 

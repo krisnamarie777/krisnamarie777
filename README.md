@@ -14,6 +14,6 @@ My shared works, my works in progress, and my unshared works allow me to explore
 
 I have two college degrees: a Bachelor's in Liberal Arts, from The Evergreen State College, in Olympia Washington, and an Associate's in Computer Software Support from Bellingham Technical College, in Bellingham. I took some classes from Western Washington University, also in Bellingham.  
 
-Less formally,  I learned, and continue to learn, from SkillShare.  I completed and continue to complete several projects on  SkillShare.  These projects are available to view on my SkillShare Profile [https://www.skillshare.com/en/profile/Krisna-Meneice].  Finally, I attended two sessions of the Creative Workspace from Bellingham area community member, multi-disciplinary artist, and teacher Jenna Bean Veatch, [https://www.jbeanveatch.com/].
+Less formally,  I learned, and continue to learn, from SkillShare.  I completed and continue to complete several projects on  SkillShare.  These projects are available to view on my SkillShare Profile [https://www.skillshare.com/en/profile/Krisna-Meneice/725358024].  Finally, I attended two sessions of the Creative Workspace from Bellingham area community member, multi-disciplinary artist, and teacher Jenna Bean Veatch [https://www.jbeanveatch.com/].
 
 When not creating or learning, I am playing different iterations of The Sims with respective packs, walking around Bellingham or other close-by locales, watching space operas, sitcoms, fantasies,  or listening to Ani Difranco, Indigo Girls, Joan Jett, and other musicians.

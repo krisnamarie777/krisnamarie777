@@ -1,15 +1,19 @@
-At present time this code is a mess I have branched it to another repo called krisnamarie-pre-production
-as this is intended to go to my live site in the near future.
+==================
+Currently this project is only this README.md and a license.txt.  Working on other files as time permits.
+=================
 
-==============================================================================================
-Right now you just get a blurb I am still working on the website.  If you are curious
-about the code you can poke at the files but, honestly they are nothing special, yet. 
+Hi, Welcome to my github account.
 
+I am Krisna Marie Meneice from Bellingham Washington.  While I consider myself primarily an artist and designer.   I also enjoy and dabble in web development.
 
-Hi, I am Krisna Marie from Bellingham, Washington.  I am quirky and wanted to make a website that celebrated my unique voice and journey as a creative and designer.  Every creative's journey is unique, and mine is no exception.   I am relatively new to this journey. This website is a celebration of my curated works and the a journey in  creating, and expressing myself.   
+I love learning new ways to create art, design,  and code.  I have created fiction, nonfiction, watercolor paintings, drawings created with various mediums, surface pattern designs, web designs, and website code and development projects.  I continually create new projects as I enjoy the journey and process that comes from the act of creation. 
 
-As I was developing this website I kept trying to answer endless seemingly complex questions.  Who am I?  Who is my audience?   What is my niche?  Why do I want a website? What benefit will my website have for me and &sol;or for those who view it? 
+Many of my works have not been available via the web.  The works that I share on the web are what I consider a curated collection of my best, or most interesting creations.   My code work is available here--my GitHub profile [https://github.com/krisnamarie777], and my art and design work is available at my website--[https://krisnamarie.myportfolio.com].
 
-Conventional branding &quot;wisdom&quot; says these questions need answers in order to make an interesting, popular, good, effective, and &lbrack;insert adjective&rbrack; here, website.  I kept coming back to the why?  The why I want a website, and I wanted to celebrate the journey of creation.
+My shared works, my works in progress, and my unshared works allow me to explore and express my truth.   My perspective counts, and so does yours!  I hope by sharing I will inspire others to create, refine, and share.  I believe that the act of creating, refining is a journey with the possible outcome of sharing.  It is in this act of sharing that individual truths celebrate an individual's diversity while expressing converging global truths.
 
-While my why was simple, my subject manner&mdash;me, was messy.  So the next question that seemed important to me was how much did I want to share?  In realty,  my art, my creations, and myself are not perfect&mdash; this thought is both scary, and freeing. I am feel unbound by the conflicted advice and ready to present my website&mdash;and a sampling of my work.  It, like myself, is a work in progress.
+I have two college degrees: a Bachelor's in Liberal Arts, from The Evergreen State College, in Olympia Washington, and an Associate's in Computer Software Support from Bellingham Technical College, in Bellingham. I took some classes from Western Washington University, also in Bellingham.  
+
+Less formally,  I learned, and continue to learn, from SkillShare.  I completed and continue to complete several projects on  SkillShare.  These projects are available to view on my SkillShare Profile [https://www.skillshare.com/en/profile/Krisna-Meneice].  Finally, I attended two sessions of the Creative Workspace from Bellingham area community member, multi-disciplinary artist, and teacher Jenna Bean Veatch, [https://www.jbeanveatch.com/].
+
+When not creating or learning, I am playing different iterations of The Sims with respective packs, walking around Bellingham or other close-by locales, watching space operas, sitcoms, fantasies,  or listening to Ani Difranco, Indigo Girls, Joan Jett, and other musicians.
